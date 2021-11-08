@@ -8,11 +8,11 @@ be able to update their mobile no and email only.
 
 Database Details:
   Create an employee database and create an emp table with following attributes
-     empID: varchar(10) primary key
-     passwd: varchar(255)
-     empName: varchar(20)
-     DoJ: date
-     salary: int
-     department: varchar(20)
-     mobileNo: int
-     email: varchar(30)
+    empID: varchar(10) primary key
+    passwd: varchar(255)
+    empName: varchar(20)
+    DoJ: date
+    salary: int
+    department: varchar(20)
+    mobileNo: int
+    email: varchar(30)
