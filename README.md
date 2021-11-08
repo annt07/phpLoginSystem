@@ -22,7 +22,7 @@ Database Details:
 
 1. Install xampp
 2. Open xampp and run apache and mysql server
-3. clone file from github and move to htdocs folder in xampp installation folder(Optional: remove all other file from htdocs before dowing this process)
+3. clone file from github and move to htdocs folder in xampp installation folder(Optional: remove all other file from htdocs before doing this process)
 4. open any browser and search localhost/
 5. after this all files/folders in htdocs can be seen in the browser
 6. open files login.php 
